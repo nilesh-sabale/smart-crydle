@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:389543407455:android:18b8642acc54d1a0c8d0ea",
+        "mobilesdk_app_id": "1:389543407455:android:",
         "android_client_info": {
           "package_name": "com.example.babycrydetector"
         }
@@ -27,7 +27,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:389543407455:android:05d0956f1836b099c8d0ea",
+        "mobilesdk_app_id": "1:389543407455:android:",
         "android_client_info": {
           "package_name": "com.example.myapplication"
         }
@@ -35,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDTbkwcnvOanbvi2IX2gnf7dh194f3JDaQ"
+          "current_key": "//your"
         }
       ],
       "services": {
